@@ -3,7 +3,7 @@
 Name : 17b.c
 Author : Tathagata Talukdar
 Description : Write a program to execute ls -l | wc using (b) dup2.
-Date: 9th October 2023
+Date: 10th October 2023
 ============================================================================
 */
 
