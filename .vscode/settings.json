@@ -3,6 +3,9 @@
         "stdlib.h": "c",
         "types.h": "c",
         "stdio.h": "c",
-        "fcntl.h": "c"
+        "fcntl.h": "c",
+        "unistd.h": "c",
+        "shm.h": "c",
+        "semaphore.h": "c"
     }
 }
